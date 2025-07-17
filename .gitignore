@@ -1,0 +1,12 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+*.db
+*.sqlite3
+data/policies/*
+data/embeddings/*

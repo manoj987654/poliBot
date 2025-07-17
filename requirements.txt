@@ -1,0 +1,12 @@
+openai
+langchain
+faiss-cpu
+pdfplumber
+python-docx
+extract-msg
+streamlit
+fastapi
+uvicorn
+python-dotenv
+PyMuPDF
+tiktoken
