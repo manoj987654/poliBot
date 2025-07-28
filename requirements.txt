@@ -11,3 +11,4 @@ python-dotenv
 PyMuPDF
 tiktoken
 langchain-community
+streamlit
