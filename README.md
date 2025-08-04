@@ -10,7 +10,7 @@ This project uses Large Language Models (LLMs) to process natural language queri
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/llm-document-processing.git
+git clone https://github.com/manoj987654/PoliBot.git
 cd llm-document-processing
 pip install -r requirements.txt
 ```
