@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+faiss-cpu
+pypdf2
+python-docx
+extract-msg
